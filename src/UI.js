@@ -13,7 +13,7 @@ export class UI {
     element.innerHTML = `
     <div class="container2">
     <div class="fg">
-    <div class="card4 card0" style=" background:${document.getElementById("file").value "}>
+    <div class="card4 card0" style=" background:${document.getElementById("file").value }">
       <div class="border">
         <h2> ${product.name} </h2>
         <div class="">

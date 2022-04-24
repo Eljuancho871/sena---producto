@@ -62,11 +62,11 @@ body{
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #fff;
     margin: 20px;
-    opacity: 0;
+    opacity: 1;
     transition: opacity 1s;
   }
   .fa {
-    opacity: 0;
+    opacity: 1;
     transition: opacity 1s;
   }
   .icons {
